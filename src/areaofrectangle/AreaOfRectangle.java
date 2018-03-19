@@ -22,6 +22,7 @@ public class AreaOfRectangle {
         //This will calculate the area of the rectangle
         double area = width*length;
         
+        //Three statements will appear
         System.out.println("the width is " + width);
         System.out.println("the length is " + length);
         System.out.println("the area is " + area);
